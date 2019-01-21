@@ -1,0 +1,75 @@
+.panel{
+    /* height: 100px; */
+    /* width: 30px; */
+    margin-top: 20%;
+    box-shadow: 3px 4px 3px 3px rgb(211, 211, 211);
+    background: #fff;
+    padding: 50px;
+    /* height: 20%; */
+    
+}
+
+
+.panel img{
+    width: 100%;
+    display: block; 
+    margin: auto; 
+    padding-top: 16%;
+}
+
+.line{
+    margin-left: 5%;
+    border-left: 2px dashed rgb(177, 173, 173);
+}
+
+@media only screen and (max-width: 800px) {
+    #line{
+        border-left: none !important;
+    }
+    
+}
+ul.address, ul.pay{
+    margin-top: 20%;
+    list-style-type: none !important;
+    font-size: 12px;
+}
+
+.underline{
+    width: 82%;
+    border-color: rgb(73, 71, 71);
+
+}
+
+.line #txtpaid h4{
+    font-weight: 400 !important;
+    color: #000 !important;
+    font-size: 1.1em;
+}
+.line h4{
+    font-weight: 600 !important;
+    color: #000 !important;
+}
+
+.panel img#qr{
+    margin-top: -13%;
+    height: 150px;
+    width: 190px;
+    margin-left: 10%;
+}
+
+.panel #qrtxt{
+    text-align: center;
+    /* margin-right: 5%; */
+}
+
+.panel #qrtxt .qline{
+    margin-left: 22%;
+}
+
+#qrtxt p{
+    margin-left: 22%;
+}
+
+#qrtxt h3{
+    margin-left: 12%;
+}
