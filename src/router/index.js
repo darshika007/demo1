@@ -33,7 +33,7 @@ export default new Router({
     },
     {
       path : '/Dealbyloc',
-      name: 'dealsbyloc',
+      name: 'Dealbyloc',
       component: Dealbyloc
     }
     

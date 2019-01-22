@@ -67,6 +67,9 @@
                     
             </div>
         </div>
+            </div>
+    </div>
+</div>
 </template>
 
 <script src="../Deals/deals.js"></script>

@@ -1,4 +1,4 @@
-import DealbylocModel from '../model/Dealbyloc Model'
+import DealbylocModel from '../model/DealbylocModel'
 
 class DealbylocViewModel{
 
